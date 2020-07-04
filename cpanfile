@@ -3,10 +3,17 @@
 requires 'perl', '5.008005';
 requires 'strict';
 requires 'warnings';
-requires 'Carp';
+requires 'Plack';
+requires 'parent';
+requires 'Plack::Middleware';
+requires 'Plack::Util::Accessor';
+requires 'Plack::Util';
 
 on 'test' => sub {
-    requires 'Test::More', '0.88';
+    requires 'Test::Arrow';
+    requires 'Plack::Test';
+    requires 'Plack::Builder';
+    requires 'HTTP::Request::Common';
 };
 
 on 'configure' => sub {

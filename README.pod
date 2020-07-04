@@ -5,7 +5,7 @@ This is Perl module B<Plack::Middleware::Acme::AAHTTPHeader>.
 
 =begin html
 
-<a href="https://github.com/bayashi/Plack-Middleware-Acme-AAHTTPHeader/blob/master/README.pod"><img src="https://img.shields.io/badge/Version-0.01-green?style=flat"></a> <a href="https://github.com/bayashi/Plack-Middleware-Acme-AAHTTPHeader/blob/master/LICENSE"><img src="https://img.shields.io/badge/LICENSE-Artistic%202.0-GREEN.png"></a> <a href="https://github.com/bayashi/Plack-Middleware-Acme-AAHTTPHeader/actions"><img src="https://github.com/bayashi/Plack-Middleware-Acme-AAHTTPHeader/workflows/master/badge.svg"/></a> <a href="https://coveralls.io/r/bayashi/Plack-Middleware-Acme-AAHTTPHeader"><img src="https://coveralls.io/repos/bayashi/Plack-Middleware-Acme-AAHTTPHeader/badge.png?branch=master"/></a>
+<a href="https://github.com/bayashi/Plack-Middleware-Acme-AAHTTPHeader/blob/main/README.pod"><img src="https://img.shields.io/badge/Version-0.01-green?style=flat"></a> <a href="https://github.com/bayashi/Plack-Middleware-Acme-AAHTTPHeader/blob/main/LICENSE"><img src="https://img.shields.io/badge/LICENSE-Artistic%202.0-GREEN.png"></a> <a href="https://github.com/bayashi/Plack-Middleware-Acme-AAHTTPHeader/actions"><img src="https://github.com/bayashi/Plack-Middleware-Acme-AAHTTPHeader/workflows/main/badge.svg"/></a> <a href="https://coveralls.io/r/bayashi/Plack-Middleware-Acme-AAHTTPHeader"><img src="https://coveralls.io/repos/bayashi/Plack-Middleware-Acme-AAHTTPHeader/badge.png?branch=main"/></a>
 
 =end html
 
